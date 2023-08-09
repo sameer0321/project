@@ -526,6 +526,7 @@
     width: 100%;
     height: 100%;
     background-color: #2D3CAE87;
+    cursor: pointer;
 }
 
 .font19 {
@@ -587,6 +588,9 @@
 .hover3:hover {
     background-color: #2C49FE1A;
     color: #000000;
+}
+.cursor{
+    cursor: pointer;
 }
 
 @media(max-width:988px) {
